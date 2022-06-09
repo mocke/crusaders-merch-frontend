@@ -73,3 +73,54 @@ p {
     font-weight: 500;
     font-size: 13px;
 }
+
+
+/*========================
+Buttons
+========================*/
+
+.btn {
+    font-size: 1.6rem;
+    font-weight: 500;
+    line-height: 1.13;
+    color: #fff;
+    border-radius: 25px;
+}
+
+.btn-primary {
+    box-shadow: 4px 3px 16px 0 rgba(0, 0, 0, 0.06);
+    background-color: #e61c24;
+    border-color: #e61c24;
+}
+
+
+/*========================
+Main Navigation
+========================*/
+
+.main-navigation {
+    margin-top: 7.8rem;
+}
+
+.main-navigation .navbar {
+    position: relative;
+    border-radius: 27px;
+    background-color: #000;
+    padding-left: 22rem;
+}
+
+.main-navigation .navbar .navbar-brand {
+    position: absolute;
+    top: 50%;
+    left: 25px;
+    transform: translate(0, -50%);
+    width: 14rem;
+}
+
+.main-navigation .navbar ul li a {
+    font-size: 1.6rem;
+    font-weight: 500;
+    line-height: 1.13;
+    color: #fff;
+    text-transform: uppercase;
+}
