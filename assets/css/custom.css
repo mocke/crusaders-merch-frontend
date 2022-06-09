@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800');
+
+html,
+body {
+    width: 100%;
+    height: auto;
+    background-color: white;
+    font-family: 'Poppins', sans-serif;
+    min-height: 100%;
+}
+
+html {
+    height: 100%;
+}
+
+ul,
+li {
+    text-decoration: none;
+    list-style-type: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 38px;
+    letter-spacing: 0.09px;
+    color: #141414;
+}
+
+h2 {
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 34px;
+    letter-spacing: 0.09px;
+    color: #141414;
+}
+
+h3 {
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 30px;
+    letter-spacing: 0.07px;
+    color: #141414;
+}
+
+h4 {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    letter-spacing: 0.07px;
+    color: #141414;
+}
+
+h5 {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.07px;
+    color: #141414;
+}
+
+h6 {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 22px;
+    letter-spacing: 0.05px;
+    color: rgba(20, 20, 20, 0.5);
+}
+
+p {
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 24px;
+    letter-spacing: 0.07px;
+    color: rgba(20, 20, 20, 0.7);
+}
+
+.sub-label {
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 21px;
+    letter-spacing: 0.07px;
+    color: rgba(20, 20, 20, 0.5);
+}
+
+.figcaption {
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 21px;
+    letter-spacing: 0.07px;
+    color: rgba(20, 20, 20, 0.5);
+}
+
+
+
