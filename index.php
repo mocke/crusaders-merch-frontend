@@ -1,4 +1,9 @@
-<?php include 'includes/header.php' ?>
+<?php 
+
+$page_name = "Home";
+include 'includes/header.php'
+
+?>
 
 <!-- Content goes here -->
 <div class="container">
