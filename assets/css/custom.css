@@ -169,3 +169,68 @@ Home Page
     border: solid 1px #f5c2c7;
     background-color: #f8d7da;
 }
+
+
+/* Products Accordion */
+
+.products-accordion {
+    margin-top: 8rem;
+}
+
+.products-accordion .accordion .accordion-item {
+    border: 0 solid rgba(0, 0, 0, 0);
+}
+
+.products-accordion .accordion .accordion-item .accordion-button {
+    position: relative;
+    flex-direction: column;
+    font-size: 3.4rem;
+    font-weight: 500;
+    color: #000;
+    align-items: flex-start;
+}
+
+.accordion-button:not(.collapsed) {
+    color: inherit;
+    background-color: transparent;
+    box-shadow: inset 0 0 0 rgba(0, 0, 0, 0);
+}
+
+.accordion-button:focus {
+    z-index: 3;
+    border-color: transparent;
+    outline: 0;
+    box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
+}
+
+.accordion-button::after {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translate(0, -50%);
+    background-image: url('../images/arrow.svg');
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+}
+
+.accordion-button:not(.collapsed)::after {
+    top: 50%;
+    right: 10px;
+    transform: translate(0, -50%) rotate(-180deg);
+    background-image: url('../images/arrow.svg');
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+}
+
+.products-accordion .accordion .accordion-item .accordion-button span.sub-label {
+    margin-top: 10px;
+    font-size: 16px;
+    font-weight: normal;
+    color: #842029;
+}
+
+.products-accordion .accordion .accordion-item .accordion-collapse {
+    background-color: #f2f2f2;
+}
