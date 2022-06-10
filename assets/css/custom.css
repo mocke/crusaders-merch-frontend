@@ -179,6 +179,7 @@ Home Page
 
 .products-accordion .accordion .accordion-item {
     border: 0 solid rgba(0, 0, 0, 0);
+    margin: 35px 0;
 }
 
 .products-accordion .accordion .accordion-item .accordion-button {
