@@ -399,6 +399,33 @@ View Cart
     text-transform: uppercase;
 }
 
+
+/*========================
+Order Success
+========================*/
+
+.orderSuccess {
+    margin-top: 16.5rem;
+    margin-bottom: 15.6rem;
+}
+
+.orderSuccess .alert-success {
+    padding: 23px 48px;
+}
+
+.orderSuccess .alert-dark {
+    padding: 25px;
+}
+
+.orderSuccess .alert-dark h4:not(:last-child) {
+    margin-bottom: 15px;
+}
+
+
+/*========================
+Cart Items
+========================*/
+
 .cart-items {
     margin-top: 25px;
     padding: 3.2rem 0 4.7rem;
