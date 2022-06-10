@@ -207,7 +207,7 @@ Home Page
 .accordion-button::after {
     position: absolute;
     top: 50%;
-    right: 10px;
+    right: 0;
     transform: translate(0, -50%);
     background-image: url('../images/arrow.svg');
     background-size: cover;
@@ -217,7 +217,7 @@ Home Page
 
 .accordion-button:not(.collapsed)::after {
     top: 50%;
-    right: 10px;
+    right: 0;
     transform: translate(0, -50%) rotate(-180deg);
     background-image: url('../images/arrow.svg');
     background-size: cover;
