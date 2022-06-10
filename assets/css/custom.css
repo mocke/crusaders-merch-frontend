@@ -188,6 +188,7 @@ Home Page
     font-weight: 500;
     color: #000;
     align-items: flex-start;
+    padding: 1rem 0
 }
 
 .accordion-button:not(.collapsed) {
