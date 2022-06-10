@@ -152,6 +152,25 @@ Buttons
 
 
 /*========================
+Alerts
+========================*/
+
+.alert-danger {
+    border-radius: 8px;
+    font-size: 1.6rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    padding: 23px 25px;
+    color: #842029;
+    border: solid 1px #f5c2c7;
+    background-color: #f8d7da;
+}
+
+
+/*========================
 Main Navigation
 ========================*/
 
@@ -202,20 +221,6 @@ Home Page
 .hero-banner img {
     margin-top: 25px;
     margin-bottom: 25px;
-}
-
-.hero-banner .alert {
-    border-radius: 8px;
-    font-size: 1.6rem;
-    font-weight: normal;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: normal;
-    letter-spacing: normal;
-    padding: 23px 25px;
-    color: #842029;
-    border: solid 1px #f5c2c7;
-    background-color: #f8d7da;
 }
 
 
