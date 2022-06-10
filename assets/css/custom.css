@@ -227,7 +227,11 @@ Home Page
 
 .products-accordion .accordion .accordion-item {
     border: 0 solid rgba(0, 0, 0, 0);
-    margin: 35px 0;
+    margin: 15px 0;
+}
+
+.products-accordion .accordion .accordion-header {
+    margin-bottom: 35px;
 }
 
 .products-accordion .accordion .accordion-item .accordion-button {
@@ -286,7 +290,47 @@ Home Page
 }
 
 .products-accordion .accordion .accordion-item .accordion-collapse .accordion-body {
-    padding: 1rem 0;
+    padding: 5.8rem 0 11.4rem 0;
+    margin-bottom: 6rem;
+}
+
+.products-accordion .accordion .accordion-item .accordion-collapse .accordion-body .row:not(:last-child) {
+    margin-bottom: 8rem;
+}
+
+
+/*========================
+Product Styling
+========================*/
+
+.card.product-card {
+    background-color: transparent;
+    border: none;
+    justify-content: space-between;
+    height: 100%;
+}
+
+.card.product-card .card-content {
+    margin-bottom: 15px;
+}
+
+.card.product-card .card-content img {
+    margin-bottom: 15px;
+}
+
+.card.product-card .card-content h5 {
+    text-transform: uppercase;
+}
+
+.card.product-card .card-content p {
+    margin: 15px 0;
+}
+
+.card.product-card .btn {
+    position: relative;
+    text-align: left;
+    width: fit-content;
+    padding: 17px 86px 17px 20px;
 }
 
 
