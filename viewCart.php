@@ -10,7 +10,7 @@ include 'includes/header.php'
     <div class="container">
         <div class="col-sm-12 d-flex">
             <h1>Confirm your order</h1>
-            <div class="result-pill">
+            <div class="pill pill-danger">
                 3 items
             </div>
         </div>
