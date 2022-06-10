@@ -39,11 +39,104 @@ include 'includes/header.php'
                         </div>
                     </div>
                     <div id="panelsStayOpen-collapseMembersGear" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-headingMembersGear">
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-sm-12">
-                                    <div class="accordion-body">
-                                        <strong>This is the first item's accordion body.</strong> It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                        <div class="accordion-body">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-sm-12 xs-mb-25">
+                                        <h1>T-shirts</h1>
+                                    </div>
+                                    <div class="col-sm-12 col-md-6 col-lg-4">
+                                        <div class="card product-card">
+                                            <div class="card-content">
+                                                <img class="img-fluid border-radius-20" src="assets/images/products/t-shirt.jpg" alt="Full patch members T-shirts">
+                                                <h2>Charter t-shirt with logo</h2>
+                                                <h5>CRUSAP 000039</h5>
+                                                <p>Crusader t-shirt with charter logo on chest and charter name written on shirt.</p>
+                                                <h3>R645.00 vat incl.</h3>
+                                            </div>
+                                            <a href="#" class="btn btn-primary thumb-grow-small">Add to cart</a>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 col-md-6 col-lg-4">
+                                        <div class="card product-card">
+                                            <div class="card-content">
+                                                <img class="img-fluid border-radius-20" src="assets/images/products/t-shirt.jpg" alt="Full patch members T-shirts">
+                                                <h2>Charter t-shirt name</h2>
+                                                <h5>CRUSAP 000040</h5>
+                                                <p>Crusader t-shirt with charter name written on short. Charter logo is NOT on shirt.</p>
+                                                <h3>R545.00 vat incl.</h3>
+                                            </div>
+                                            <a href="#" class="btn btn-primary thumb-grow-small">Add to cart</a>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 col-md-6 col-lg-4">
+                                        <div class="card product-card">
+                                            <div class="card-content">
+                                                <img class="img-fluid border-radius-20" src="assets/images/products/t-shirt.jpg" alt="Full patch members T-shirts">
+                                                <h2>Charter t-shirt name</h2>
+                                                <h5>CRUSAP 000040</h5>
+                                                <p>Crusader t-shirt with charter name written on short. Charter logo is NOT on shirt.</p>
+                                            </div>
+                                            <a href="#" class="btn btn-primary thumb-grow-small">Add to cart</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-sm-12 xs-mb-25">
+                                        <h1>Hoodies</h1>
+                                    </div>
+                                    <div class="col-sm-12 col-md-6 col-lg-4">
+                                        <div class="card product-card">
+                                            <div class="card-content">
+                                                <img class="img-fluid border-radius-20" src="assets/images/products/hoodies.jpg" alt="Full patch members Hoodies">
+                                                <h2>Hoodie with zip</h2>
+                                                <h5>CRUSAP 000039</h5>
+                                                <p>Crusader t-shirt with charter logo on chest and charter name written on shirt.</p>
+                                                <h3>R645.00 vat incl.</h3>
+                                            </div>
+                                            <a href="#" class="btn btn-primary thumb-grow-small">Add to cart</a>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 col-md-6 col-lg-4">
+                                        <div class="card product-card">
+                                            <div class="card-content">
+                                                <img class="img-fluid border-radius-20" src="assets/images/products/hoodies.jpg" alt="Full patch members Hoodies">
+                                                <h2>Hoodie with no zip</h2>
+                                                <h5>CRUSAP 000040</h5>
+                                                <p>Crusader t-shirt with charter name written on short. Charter logo is NOT on shirt.</p>
+                                                <h3>R545.00 vat incl.</h3>
+                                            </div>
+                                            <a href="#" class="btn btn-primary thumb-grow-small">Add to cart</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-sm-12 xs-mb-25">
+                                        <h1>Caps</h1>
+                                    </div>
+                                    <div class="col-sm-12 col-md-6 col-lg-4">
+                                        <div class="card product-card">
+                                            <div class="card-content">
+                                                <img class="img-fluid border-radius-20" src="assets/images/products/hoodies.jpg" alt="Full patch members Hoodies">
+                                                <h2>Hoodie with zip</h2>
+                                                <h5>CRUSAP 000039</h5>
+                                                <p>Crusader t-shirt with charter logo on chest and charter name written on shirt.</p>
+                                                <h3>R645.00 vat incl.</h3>
+                                            </div>
+                                            <a href="#" class="btn btn-primary thumb-grow-small">Add to cart</a>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 col-md-6 col-lg-4">
+                                        <div class="card product-card">
+                                            <div class="card-content">
+                                                <img class="img-fluid border-radius-20" src="assets/images/products/hoodies.jpg" alt="Full patch members Hoodies">
+                                                <h2>Hoodie with no zip</h2>
+                                                <h5>CRUSAP 000040</h5>
+                                                <p>Crusader t-shirt with charter name written on short. Charter logo is NOT on shirt.</p>
+                                                <h3>R545.00 vat incl.</h3>
+                                            </div>
+                                            <a href="#" class="btn btn-primary thumb-grow-small">Add to cart</a>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -64,11 +157,108 @@ include 'includes/header.php'
                         </div>
                     </div>
                     <div id="panelsStayOpen-collapseProspectGear" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingProspectGear">
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-sm-12">
-                                    <div class="accordion-body">
-                                        <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                        <div class="accordion-body">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-sm-12">
+                                        <div class="row">
+                                            <div class="col-sm-12 xs-mb-25">
+                                                <h1>T-shirts</h1>
+                                            </div>
+                                            <div class="col-sm-12 col-md-6 col-lg-4">
+                                                <div class="card product-card">
+                                                    <div class="card-content">
+                                                        <img class="img-fluid border-radius-20" src="assets/images/products/t-shirt.jpg" alt="Full patch members T-shirts">
+                                                        <h2>Charter t-shirt with logo</h2>
+                                                        <h5>CRUSAP 000039</h5>
+                                                        <p>Crusader t-shirt with charter logo on chest and charter name written on shirt.</p>
+                                                        <h3>R645.00 vat incl.</h3>
+                                                    </div>
+                                                    <a href="#" class="btn btn-primary thumb-grow-small">Add to cart</a>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-12 col-md-6 col-lg-4">
+                                                <div class="card product-card">
+                                                    <div class="card-content">
+                                                        <img class="img-fluid border-radius-20" src="assets/images/products/t-shirt.jpg" alt="Full patch members T-shirts">
+                                                        <h2>Charter t-shirt name</h2>
+                                                        <h5>CRUSAP 000040</h5>
+                                                        <p>Crusader t-shirt with charter name written on short. Charter logo is NOT on shirt.</p>
+                                                        <h3>R545.00 vat incl.</h3>
+                                                    </div>
+                                                    <a href="#" class="btn btn-primary thumb-grow-small">Add to cart</a>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-12 col-md-6 col-lg-4">
+                                                <div class="card product-card">
+                                                    <div class="card-content">
+                                                        <img class="img-fluid border-radius-20" src="assets/images/products/t-shirt.jpg" alt="Full patch members T-shirts">
+                                                        <h2>Charter t-shirt name</h2>
+                                                        <h5>CRUSAP 000040</h5>
+                                                        <p>Crusader t-shirt with charter name written on short. Charter logo is NOT on shirt.</p>
+                                                    </div>
+                                                    <a href="#" class="btn btn-primary thumb-grow-small">Add to cart</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-sm-12 xs-mb-25">
+                                                <h1>Hoodies</h1>
+                                            </div>
+                                            <div class="col-sm-12 col-md-6 col-lg-4">
+                                                <div class="card product-card">
+                                                    <div class="card-content">
+                                                        <img class="img-fluid border-radius-20" src="assets/images/products/hoodies.jpg" alt="Full patch members Hoodies">
+                                                        <h2>Hoodie with zip</h2>
+                                                        <h5>CRUSAP 000039</h5>
+                                                        <p>Crusader t-shirt with charter logo on chest and charter name written on shirt.</p>
+                                                        <h3>R645.00 vat incl.</h3>
+                                                    </div>
+                                                    <a href="#" class="btn btn-primary thumb-grow-small">Add to cart</a>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-12 col-md-6 col-lg-4">
+                                                <div class="card product-card">
+                                                    <div class="card-content">
+                                                        <img class="img-fluid border-radius-20" src="assets/images/products/hoodies.jpg" alt="Full patch members Hoodies">
+                                                        <h2>Hoodie with no zip</h2>
+                                                        <h5>CRUSAP 000040</h5>
+                                                        <p>Crusader t-shirt with charter name written on short. Charter logo is NOT on shirt.</p>
+                                                        <h3>R545.00 vat incl.</h3>
+                                                    </div>
+                                                    <a href="#" class="btn btn-primary thumb-grow-small">Add to cart</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-sm-12 xs-mb-25">
+                                                <h1>Caps</h1>
+                                            </div>
+                                            <div class="col-sm-12 col-md-6 col-lg-4">
+                                                <div class="card product-card">
+                                                    <div class="card-content">
+                                                        <img class="img-fluid border-radius-20" src="assets/images/products/hoodies.jpg" alt="Full patch members Hoodies">
+                                                        <h2>Hoodie with zip</h2>
+                                                        <h5>CRUSAP 000039</h5>
+                                                        <p>Crusader t-shirt with charter logo on chest and charter name written on shirt.</p>
+                                                        <h3>R645.00 vat incl.</h3>
+                                                    </div>
+                                                    <a href="#" class="btn btn-primary thumb-grow-small">Add to cart</a>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-12 col-md-6 col-lg-4">
+                                                <div class="card product-card">
+                                                    <div class="card-content">
+                                                        <img class="img-fluid border-radius-20" src="assets/images/products/hoodies.jpg" alt="Full patch members Hoodies">
+                                                        <h2>Hoodie with no zip</h2>
+                                                        <h5>CRUSAP 000040</h5>
+                                                        <p>Crusader t-shirt with charter name written on short. Charter logo is NOT on shirt.</p>
+                                                        <h3>R545.00 vat incl.</h3>
+                                                    </div>
+                                                    <a href="#" class="btn btn-primary thumb-grow-small">Add to cart</a>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -89,11 +279,108 @@ include 'includes/header.php'
                         </div>
                     </div>
                     <div id="panelsStayOpen-collapseFamiliaGear" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingFamiliaGear">
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-sm-12">
-                                    <div class="accordion-body">
-                                        <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                        <div class="accordion-body">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-sm-12">
+                                        <div class="row">
+                                            <div class="col-sm-12 xs-mb-25">
+                                                <h1>T-shirts</h1>
+                                            </div>
+                                            <div class="col-sm-12 col-md-6 col-lg-4">
+                                                <div class="card product-card">
+                                                    <div class="card-content">
+                                                        <img class="img-fluid border-radius-20" src="assets/images/products/t-shirt.jpg" alt="Full patch members T-shirts">
+                                                        <h2>Charter t-shirt with logo</h2>
+                                                        <h5>CRUSAP 000039</h5>
+                                                        <p>Crusader t-shirt with charter logo on chest and charter name written on shirt.</p>
+                                                        <h3>R645.00 vat incl.</h3>
+                                                    </div>
+                                                    <a href="#" class="btn btn-primary thumb-grow-small">Add to cart</a>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-12 col-md-6 col-lg-4">
+                                                <div class="card product-card">
+                                                    <div class="card-content">
+                                                        <img class="img-fluid border-radius-20" src="assets/images/products/t-shirt.jpg" alt="Full patch members T-shirts">
+                                                        <h2>Charter t-shirt name</h2>
+                                                        <h5>CRUSAP 000040</h5>
+                                                        <p>Crusader t-shirt with charter name written on short. Charter logo is NOT on shirt.</p>
+                                                        <h3>R545.00 vat incl.</h3>
+                                                    </div>
+                                                    <a href="#" class="btn btn-primary thumb-grow-small">Add to cart</a>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-12 col-md-6 col-lg-4">
+                                                <div class="card product-card">
+                                                    <div class="card-content">
+                                                        <img class="img-fluid border-radius-20" src="assets/images/products/t-shirt.jpg" alt="Full patch members T-shirts">
+                                                        <h2>Charter t-shirt name</h2>
+                                                        <h5>CRUSAP 000040</h5>
+                                                        <p>Crusader t-shirt with charter name written on short. Charter logo is NOT on shirt.</p>
+                                                    </div>
+                                                    <a href="#" class="btn btn-primary thumb-grow-small">Add to cart</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-sm-12 xs-mb-25">
+                                                <h1>Hoodies</h1>
+                                            </div>
+                                            <div class="col-sm-12 col-md-6 col-lg-4">
+                                                <div class="card product-card">
+                                                    <div class="card-content">
+                                                        <img class="img-fluid border-radius-20" src="assets/images/products/hoodies.jpg" alt="Full patch members Hoodies">
+                                                        <h2>Hoodie with zip</h2>
+                                                        <h5>CRUSAP 000039</h5>
+                                                        <p>Crusader t-shirt with charter logo on chest and charter name written on shirt.</p>
+                                                        <h3>R645.00 vat incl.</h3>
+                                                    </div>
+                                                    <a href="#" class="btn btn-primary thumb-grow-small">Add to cart</a>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-12 col-md-6 col-lg-4">
+                                                <div class="card product-card">
+                                                    <div class="card-content">
+                                                        <img class="img-fluid border-radius-20" src="assets/images/products/hoodies.jpg" alt="Full patch members Hoodies">
+                                                        <h2>Hoodie with no zip</h2>
+                                                        <h5>CRUSAP 000040</h5>
+                                                        <p>Crusader t-shirt with charter name written on short. Charter logo is NOT on shirt.</p>
+                                                        <h3>R545.00 vat incl.</h3>
+                                                    </div>
+                                                    <a href="#" class="btn btn-primary thumb-grow-small">Add to cart</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-sm-12 xs-mb-25">
+                                                <h1>Caps</h1>
+                                            </div>
+                                            <div class="col-sm-12 col-md-6 col-lg-4">
+                                                <div class="card product-card">
+                                                    <div class="card-content">
+                                                        <img class="img-fluid border-radius-20" src="assets/images/products/hoodies.jpg" alt="Full patch members Hoodies">
+                                                        <h2>Hoodie with zip</h2>
+                                                        <h5>CRUSAP 000039</h5>
+                                                        <p>Crusader t-shirt with charter logo on chest and charter name written on shirt.</p>
+                                                        <h3>R645.00 vat incl.</h3>
+                                                    </div>
+                                                    <a href="#" class="btn btn-primary thumb-grow-small">Add to cart</a>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-12 col-md-6 col-lg-4">
+                                                <div class="card product-card">
+                                                    <div class="card-content">
+                                                        <img class="img-fluid border-radius-20" src="assets/images/products/hoodies.jpg" alt="Full patch members Hoodies">
+                                                        <h2>Hoodie with no zip</h2>
+                                                        <h5>CRUSAP 000040</h5>
+                                                        <p>Crusader t-shirt with charter name written on short. Charter logo is NOT on shirt.</p>
+                                                        <h3>R545.00 vat incl.</h3>
+                                                    </div>
+                                                    <a href="#" class="btn btn-primary thumb-grow-small">Add to cart</a>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -114,11 +401,108 @@ include 'includes/header.php'
                         </div>
                     </div>
                     <div id="panelsStayOpen-collapseSupporterGear" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingSupporterGear">
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-sm-12">
-                                    <div class="accordion-body">
-                                        <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                        <div class="accordion-body">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-sm-12">
+                                        <div class="row">
+                                            <div class="col-sm-12 xs-mb-25">
+                                                <h1>T-shirts</h1>
+                                            </div>
+                                            <div class="col-sm-12 col-md-6 col-lg-4">
+                                                <div class="card product-card">
+                                                    <div class="card-content">
+                                                        <img class="img-fluid border-radius-20" src="assets/images/products/t-shirt.jpg" alt="Full patch members T-shirts">
+                                                        <h2>Charter t-shirt with logo</h2>
+                                                        <h5>CRUSAP 000039</h5>
+                                                        <p>Crusader t-shirt with charter logo on chest and charter name written on shirt.</p>
+                                                        <h3>R645.00 vat incl.</h3>
+                                                    </div>
+                                                    <a href="#" class="btn btn-primary thumb-grow-small">Add to cart</a>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-12 col-md-6 col-lg-4">
+                                                <div class="card product-card">
+                                                    <div class="card-content">
+                                                        <img class="img-fluid border-radius-20" src="assets/images/products/t-shirt.jpg" alt="Full patch members T-shirts">
+                                                        <h2>Charter t-shirt name</h2>
+                                                        <h5>CRUSAP 000040</h5>
+                                                        <p>Crusader t-shirt with charter name written on short. Charter logo is NOT on shirt.</p>
+                                                        <h3>R545.00 vat incl.</h3>
+                                                    </div>
+                                                    <a href="#" class="btn btn-primary thumb-grow-small">Add to cart</a>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-12 col-md-6 col-lg-4">
+                                                <div class="card product-card">
+                                                    <div class="card-content">
+                                                        <img class="img-fluid border-radius-20" src="assets/images/products/t-shirt.jpg" alt="Full patch members T-shirts">
+                                                        <h2>Charter t-shirt name</h2>
+                                                        <h5>CRUSAP 000040</h5>
+                                                        <p>Crusader t-shirt with charter name written on short. Charter logo is NOT on shirt.</p>
+                                                    </div>
+                                                    <a href="#" class="btn btn-primary thumb-grow-small">Add to cart</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-sm-12 xs-mb-25">
+                                                <h1>Hoodies</h1>
+                                            </div>
+                                            <div class="col-sm-12 col-md-6 col-lg-4">
+                                                <div class="card product-card">
+                                                    <div class="card-content">
+                                                        <img class="img-fluid border-radius-20" src="assets/images/products/hoodies.jpg" alt="Full patch members Hoodies">
+                                                        <h2>Hoodie with zip</h2>
+                                                        <h5>CRUSAP 000039</h5>
+                                                        <p>Crusader t-shirt with charter logo on chest and charter name written on shirt.</p>
+                                                        <h3>R645.00 vat incl.</h3>
+                                                    </div>
+                                                    <a href="#" class="btn btn-primary thumb-grow-small">Add to cart</a>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-12 col-md-6 col-lg-4">
+                                                <div class="card product-card">
+                                                    <div class="card-content">
+                                                        <img class="img-fluid border-radius-20" src="assets/images/products/hoodies.jpg" alt="Full patch members Hoodies">
+                                                        <h2>Hoodie with no zip</h2>
+                                                        <h5>CRUSAP 000040</h5>
+                                                        <p>Crusader t-shirt with charter name written on short. Charter logo is NOT on shirt.</p>
+                                                        <h3>R545.00 vat incl.</h3>
+                                                    </div>
+                                                    <a href="#" class="btn btn-primary thumb-grow-small">Add to cart</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-sm-12 xs-mb-25">
+                                                <h1>Caps</h1>
+                                            </div>
+                                            <div class="col-sm-12 col-md-6 col-lg-4">
+                                                <div class="card product-card">
+                                                    <div class="card-content">
+                                                        <img class="img-fluid border-radius-20" src="assets/images/products/hoodies.jpg" alt="Full patch members Hoodies">
+                                                        <h2>Hoodie with zip</h2>
+                                                        <h5>CRUSAP 000039</h5>
+                                                        <p>Crusader t-shirt with charter logo on chest and charter name written on shirt.</p>
+                                                        <h3>R645.00 vat incl.</h3>
+                                                    </div>
+                                                    <a href="#" class="btn btn-primary thumb-grow-small">Add to cart</a>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-12 col-md-6 col-lg-4">
+                                                <div class="card product-card">
+                                                    <div class="card-content">
+                                                        <img class="img-fluid border-radius-20" src="assets/images/products/hoodies.jpg" alt="Full patch members Hoodies">
+                                                        <h2>Hoodie with no zip</h2>
+                                                        <h5>CRUSAP 000040</h5>
+                                                        <p>Crusader t-shirt with charter name written on short. Charter logo is NOT on shirt.</p>
+                                                        <h3>R545.00 vat incl.</h3>
+                                                    </div>
+                                                    <a href="#" class="btn btn-primary thumb-grow-small">Add to cart</a>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
