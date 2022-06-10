@@ -239,3 +239,37 @@ Home Page
 .products-accordion .accordion .accordion-item .accordion-collapse .accordion-body {
     padding: 1rem 0;
 }
+
+
+/*========================
+Footer
+========================*/
+
+footer {
+    padding: 10rem 0;
+}
+
+footer hr:not([size]) {
+    height: 3px;
+    background-color: #d1d1d1;
+}
+
+footer img {
+    width: 445px;
+}
+
+footer h5 {
+    color: #686666;
+}
+
+footer a {
+    font-size: 3.4rem;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+    text-decoration: none;
+}
