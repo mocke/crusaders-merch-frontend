@@ -70,11 +70,13 @@ h4 {
 h5 {
     font-size: 1.6rem;
     font-weight: 500;
+    color: #989898;
 }
 
 p {
     font-size: 1.6rem;
     font-weight: normal;
+    color: #989898;
 }
 
 .sub-label {
