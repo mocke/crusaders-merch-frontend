@@ -46,7 +46,7 @@ include 'includes/header.php'
                 </div>
                 <div class="col-sm-12 col-xl-2 my-auto xs-pb-20">
                     <label class="form-label" for="selectSize">Select size</label>
-                    <select class="form-select" id="selectSize" name="selectSize" aria-label="Default select example">
+                    <select class="form-select" id="selectSize" name="selectSize">
                         <option selected disabled>Select Size</option>
                         <option value="XSmall">XSmall</option>
                         <option value="Small">Small</option>
@@ -76,7 +76,7 @@ include 'includes/header.php'
                 </div>
                 <div class="col-sm-12 col-xl-2 my-auto xs-pb-20">
                     <label class="form-label" for="selectSize">Select size</label>
-                    <select class="form-select" id="selectSize" name="selectSize" aria-label="Default select example">
+                    <select class="form-select" id="selectSize" name="selectSize">
                         <option selected disabled>Select Size</option>
                         <option value="XSmall">XSmall</option>
                         <option value="Small">Small</option>
@@ -100,8 +100,8 @@ include 'includes/header.php'
                     <hr>
                 </div>
                 <div class="col-sm-12 col-md-6 col-lg-4 col-xl-3">
-                    <label class="form-label" for="selectStatus">Update status</label>
-                    <select class="form-select" id="selectStatus" name="selectStatus" aria-label="Default select example">
+                    <label class="form-label" for="selectStatusAdmin">Update status</label>
+                    <select class="form-select" id="selectStatusAdmin" name="selectStatusAdmin">
                         <option selected value="Pending">Pending</option>
                         <option value="Approved">Approved</option>
                         <option value="Cancelled by charter">Cancelled by charter</option>
@@ -123,8 +123,8 @@ include 'includes/header.php'
                     <h4 class="text-dark-gray">By: Rohan Mocke</h4>
                 </div>
                 <div class="col-sm-12 col-md-6 my-auto text-end">
-                    <div class="pill pill-success">
-                        DELIVERED
+                    <div class="pill pill-blue">
+                        ORDERED AT SUPPLIER
                     </div>
                 </div>
             </div>
@@ -140,7 +140,7 @@ include 'includes/header.php'
                 </div>
                 <div class="col-sm-12 col-xl-2 my-auto xs-pb-20">
                     <label class="form-label" for="selectSize">Select size</label>
-                    <select class="form-select" id="selectSize" name="selectSize" aria-label="Default select example">
+                    <select class="form-select" id="selectSize" name="selectSize">
                         <option selected disabled>Select Size</option>
                         <option value="XSmall">XSmall</option>
                         <option value="Small">Small</option>
@@ -163,15 +163,17 @@ include 'includes/header.php'
                 <div class="col-sm-12 xs-mb-25">
                     <hr>
                 </div>
-                <div class="col-sm-12 col-md-6 col-lg-4 col-xl-3">
-                    <label class="form-label" for="selectStatus">Update status</label>
-                    <select class="form-select" id="selectStatus" name="selectStatus" aria-label="Default select example">
-                        <option selected value="Pending">Pending</option>
-                        <option value="Approved">Approved</option>
-                        <option value="Cancelled by charter">Cancelled by charter</option>
+                <div class="col-sm-12 col-md-6 col-lg-5 col-xl-4">
+                    <label class="form-label" for="selectStatusSuperAdmin">Update status</label>
+                    <select class="form-select" id="selectStatusSuperAdmin" name="selectStatusSuperAdmin">
+                        <option value="Cancelled by nationals">Cancelled by nationals</option>
+                        <option selected value="Approved">Approved</option>
+                        <option value="Ordered at supplier">Ordered at supplier</option>
+                        <option value="Dispatched">Dispatched</option>
+                        <option value="Payment received / completed">Payment received / completed</option>
                     </select>
                 </div>
-                <div class="col-sm-12 col-md-6 col-lg-8 col-xl-9 my-auto text-end">
+                <div class="col-sm-12 col-md-6 col-lg-9 col-xl-8 my-auto text-end">
                     <a href="#" class="btn btn-primary">update</a>
                 </div>
             </div>
@@ -204,7 +206,7 @@ include 'includes/header.php'
                 </div>
                 <div class="col-sm-12 col-xl-2 my-auto xs-pb-20">
                     <label class="form-label" for="selectSize">Select size</label>
-                    <select class="form-select" id="selectSize" name="selectSize" aria-label="Default select example">
+                    <select class="form-select" id="selectSize" name="selectSize">
                         <option selected disabled>Select Size</option>
                         <option value="XSmall">XSmall</option>
                         <option value="Small">Small</option>
