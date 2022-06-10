@@ -40,7 +40,7 @@ include 'includes/header.php'
                 </div>
                 <div class="col-sm-12 col-xl-2 my-auto xs-pb-20">
                     <label class="form-label" for="selectSize">Select size</label>
-                    <select class="form-select" id="selectSize" name="selectSize" aria-label="Default select example">
+                    <select class="form-select" id="selectSize" name="selectSize">
                         <option selected disabled>Select Size</option>
                         <option value="XSmall">XSmall</option>
                         <option value="Small">Small</option>
@@ -70,7 +70,7 @@ include 'includes/header.php'
                 </div>
                 <div class="col-sm-12 col-xl-2 my-auto xs-pb-20">
                     <label class="form-label" for="selectSize">Select size</label>
-                    <select class="form-select" id="selectSize" name="selectSize" aria-label="Default select example">
+                    <select class="form-select" id="selectSize" name="selectSize">
                         <option selected disabled>Select Size</option>
                         <option value="XSmall">XSmall</option>
                         <option value="Small">Small</option>
@@ -116,7 +116,7 @@ include 'includes/header.php'
                 </div>
                 <div class="col-sm-12 col-xl-2 my-auto xs-pb-20">
                     <label class="form-label" for="selectSize">Select size</label>
-                    <select class="form-select" id="selectSize" name="selectSize" aria-label="Default select example">
+                    <select class="form-select" id="selectSize" name="selectSize">
                         <option selected disabled>Select Size</option>
                         <option value="XSmall">XSmall</option>
                         <option value="Small">Small</option>
@@ -162,7 +162,7 @@ include 'includes/header.php'
                 </div>
                 <div class="col-sm-12 col-xl-2 my-auto xs-pb-20">
                     <label class="form-label" for="selectSize">Select size</label>
-                    <select class="form-select" id="selectSize" name="selectSize" aria-label="Default select example">
+                    <select class="form-select" id="selectSize" name="selectSize">
                         <option selected disabled>Select Size</option>
                         <option value="XSmall">XSmall</option>
                         <option value="Small">Small</option>
