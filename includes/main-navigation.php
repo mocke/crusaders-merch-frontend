@@ -11,7 +11,7 @@
                     </button>
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav me-auto mb-lg-0">
-                            <li class="nav-item">
+                            <li class="nav-item lg-mr-5">
                                 <a class="nav-link active" aria-current="page" href="#">Shop</a>
                             </li>
                             <li class="nav-item">
@@ -19,11 +19,11 @@
                             </li>
                         </ul>
                         <ul class="navbar-nav mb-2 mb-lg-0">
-                            <li class="nav-item">
+                            <li class="nav-item my-auto">
                                 <a class="nav-link" href="#">charter orders</a>
                             </li>
-                            <li class="nav-item">
-                                <a class="btn btn-primary" href="#">Link</a>
+                            <li class="nav-item lg-ml-35">
+                                <a class="btn btn-primary" href="#">cart (3 items)</a>
                             </li>
                         </ul>
                     </div>
