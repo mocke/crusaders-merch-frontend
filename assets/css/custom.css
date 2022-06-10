@@ -521,6 +521,61 @@ Order Charters
 
 
 /*========================
+Order Admin
+========================*/
+
+.orderAdmin.cart-items {
+    margin-top: 16.5rem;
+    padding: 0;
+}
+
+.orderAdmin .nav-tabs {
+    border-bottom: none;
+}
+
+.orderAdmin .nav-tabs li {
+    opacity: 0.2;
+}
+
+.orderAdmin .nav-tabs li.active {
+    opacity: 1;
+}
+
+.orderAdmin .nav-tabs li:not(:last-child) {
+    margin-right: 3.5rem;
+}
+
+.orderAdmin .nav-tabs li a {
+    font-size: 34px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+    text-decoration: none;
+}
+
+.orderAdmin .container:not(:last-child) {
+    margin-bottom: 4rem;
+}
+
+.orderAdmin .bg-light-gray {
+    padding: 4rem 4rem 5rem 4rem;
+}
+
+.orderAdmin .bg-light-gray .btn.btn-primary {
+    padding: 15px 45px;
+}
+
+.orderAdmin .bg-light-gray hr:not([size]) {
+    height: 3px;
+    background-color: #d1d1d1;
+}
+
+
+/*========================
 Cart Items
 ========================*/
 
