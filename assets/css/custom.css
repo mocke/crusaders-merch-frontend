@@ -98,10 +98,31 @@ Text Colors
     color: #f92323;
 }
 
+.text-dark-gray {
+    color: #5a5a5a;
+}
+
+
+/*========================
+Background Colors
+========================*/
+
+.bg-white {
+    background-color: #fff;
+}
+
+.bg-light-gray {
+    background-color: #f2f2f2;
+}
+
 
 /*========================
 Preset Styling
 ========================*/
+
+.opacity-half {
+    opacity: .5;
+}
 
 .border-radius-20 {
     border-radius: 20px;
