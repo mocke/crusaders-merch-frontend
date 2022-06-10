@@ -68,10 +68,13 @@ include 'includes/header.php'
             <div class="col-sm-12 col-xl-2 my-auto xs-pb-20">
                 <label class="form-label" for="selectSize">Select size</label>
                 <select class="form-select" id="selectSize" name="selectSize" aria-label="Default select example">
-                    <option selected>Select Size</option>
-                    <option value="1">One</option>
-                    <option value="2">Two</option>
-                    <option value="3">Three</option>
+                    <option selected disabled>Select Size</option>
+                    <option value="XSmall">XSmall</option>
+                    <option value="Small">Small</option>
+                    <option value="Medium">Medium</option>
+                    <option value="Large">Large</option>
+                    <option value="XLarge">XLarge</option>
+                    <option value="XXLarge">XXLarge</option>
                 </select>
             </div>
             <div class="col-sm-12 col-xl-1 my-auto xs-pb-20">
@@ -95,10 +98,13 @@ include 'includes/header.php'
             <div class="col-sm-12 col-xl-2 my-auto xs-pb-20">
                 <label class="form-label" for="selectSize">Select size</label>
                 <select class="form-select" id="selectSize" name="selectSize" aria-label="Default select example">
-                    <option selected>Select Size</option>
-                    <option value="1">One</option>
-                    <option value="2">Two</option>
-                    <option value="3">Three</option>
+                    <option selected disabled>Select Size</option>
+                    <option value="XSmall">XSmall</option>
+                    <option value="Small">Small</option>
+                    <option value="Medium">Medium</option>
+                    <option value="Large">Large</option>
+                    <option value="XLarge">XLarge</option>
+                    <option value="XXLarge">XXLarge</option>
                 </select>
             </div>
             <div class="col-sm-12 col-xl-1 my-auto xs-pb-20">
