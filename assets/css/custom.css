@@ -137,6 +137,17 @@ Buttons
     box-shadow: 4px 3px 16px 0 rgba(0, 0, 0, 0.06);
     background-color: #e61c24;
     border-color: #e61c24;
+    text-transform: uppercase;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active {
+    box-shadow: 4px 3px 16px 0 rgba(0, 0, 0, 0.06);
+    color: #e61c24;
+    background-color: #fff;
+    border-color: #e61c24;
+    text-transform: uppercase;
 }
 
 
