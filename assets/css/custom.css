@@ -494,6 +494,33 @@ Order History
 
 
 /*========================
+Order Charters
+========================*/
+
+.orderCharters.cart-items {
+    margin-top: 16.5rem;
+    padding: 0;
+}
+
+.orderCharters .container:not(:last-child) {
+    margin-bottom: 4rem;
+}
+
+.orderCharters .bg-light-gray {
+    padding: 4rem 4rem 5rem 4rem;
+}
+
+.orderCharters .bg-light-gray .btn.btn-primary {
+    padding: 15px 45px;
+}
+
+.orderCharters .bg-light-gray hr:not([size]) {
+    height: 3px;
+    background-color: #d1d1d1;
+}
+
+
+/*========================
 Cart Items
 ========================*/
 
