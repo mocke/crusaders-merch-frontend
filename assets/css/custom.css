@@ -472,6 +472,28 @@ Order Success
 
 
 /*========================
+Order History
+========================*/
+
+.orderHistory.cart-items {
+    margin-top: 16.5rem;
+    padding: 0;
+}
+
+.orderHistory .container:not(:last-child) {
+    margin-bottom: 4rem;
+}
+
+.orderHistory .bg-light-gray {
+    padding: 4rem 4rem 5rem 4rem;
+}
+
+.orderHistory .bg-light-gray .row:nth-child(1) {
+    margin-bottom: 7rem;
+}
+
+
+/*========================
 Cart Items
 ========================*/
 
