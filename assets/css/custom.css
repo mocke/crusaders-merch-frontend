@@ -134,3 +134,7 @@ Main Navigation
     color: #fff;
     text-transform: uppercase;
 }
+
+.main-navigation .navbar .btn {
+    padding: 14px 19px 16px 21px;
+}
