@@ -138,3 +138,34 @@ Main Navigation
 .main-navigation .navbar .btn {
     padding: 14px 19px 16px 21px;
 }
+
+
+/*========================
+Home Page
+========================*/
+
+
+/* Hero Banner */
+
+.hero-banner {
+    margin-top: 16.5rem;
+}
+
+.hero-banner img {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.hero-banner .alert {
+    border-radius: 8px;
+    font-size: 1.6rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    padding: 23px 25px;
+    color: #842029;
+    border: solid 1px #f5c2c7;
+    background-color: #f8d7da;
+}
