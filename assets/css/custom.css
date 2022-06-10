@@ -220,6 +220,51 @@ Alerts
 
 
 /*========================
+Pills
+========================*/
+
+.pill {
+    display: inline-block;
+    width: fit-content;
+    font-size: 1.6rem;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.13;
+    letter-spacing: normal;
+    padding: 11px 14px;
+    border-radius: 21px;
+    margin-left: 18px;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.pill-danger {
+    background-color: #e61c24;
+}
+
+.pill-success {
+    background-color: #1ca72a;
+}
+
+.pill-dark {
+    background-color: #545252;
+}
+
+.pill-blue {
+    background-color: #0b2af2;
+}
+
+.pill-pink {
+    background-color: #f20bb4;
+}
+
+.pill-strong-red {
+    background-color: #be1e2d;
+}
+
+
+/*========================
 Main Navigation
 ========================*/
 
@@ -401,23 +446,6 @@ View Cart
 
 .viewCart h1 {
     display: inline-block;
-}
-
-.viewCart .result-pill {
-    display: inline-block;
-    width: fit-content;
-    font-size: 1.6rem;
-    font-weight: 500;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: 1.13;
-    letter-spacing: normal;
-    color: #fff;
-    padding: 11px 14px;
-    border-radius: 21px;
-    background-color: #e61c24;
-    margin-left: 18px;
-    text-transform: uppercase;
 }
 
 
