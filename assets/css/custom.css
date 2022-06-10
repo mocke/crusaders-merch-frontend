@@ -21,6 +21,11 @@ html {
     height: 100%;
 }
 
+.row>* {
+    padding-right: calc(var(--bs-gutter-x) * .8);
+    padding-left: calc(var(--bs-gutter-x) * .8);
+}
+
 ul,
 li {
     text-decoration: none;
