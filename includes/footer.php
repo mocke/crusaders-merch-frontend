@@ -1,15 +1,15 @@
 <!-- Footer -->
 <footer>
     <div class="container">
-        <div class="row">
+        <div class="row justify-content-center">
             <div class="col-sm-12 xs-mb-60">
                 <hr>
             </div>
-            <div class="col-sm-12 col-md-6">
-                <img src="assets/images/crusaders-slogan@2x.png" alt="Crusaders South Africa Slogan">
+            <div class="col-11 col-sm-10 col-md-5 xs-mb-25 ">
+                <img class="img-fluid" src="assets/images/crusaders-slogan@2x.png" alt="Crusaders South Africa Slogan">
             </div>
-            <div class="col-sm-12 col-md-6 text-end my-auto">
-                <span class="text-start d-inline-block">
+            <div class="col-sm-12 col-md-6 offset-md-1 text-center text-lg-end my-auto">
+                <span class="text-center text-lg-start d-inline-block">
                     <h5>For any queries email</h5>
                     <a href="mailto:admin@crusadersmc.co.za" target="_blank">admin@crusadersmc.co.za</a>
                 </span>
