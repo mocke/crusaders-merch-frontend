@@ -11,7 +11,7 @@ include 'includes/header.php'
         <div class="row">
             <!-- Nav tabs -->
             <ul class="nav nav-tabs" role="tablist">
-                <li role="presentation" class="active"><a href="#charterOrders" aria-controls="charterOrders" role="tab" data-bs-toggle="tab">Charter orders</a></li>
+                <li role="presentation" class="active"><a class="active" href="#charterOrders" aria-controls="charterOrders" role="tab" data-bs-toggle="tab">Charter orders</a></li>
                 <li role="presentation"><a href="#purchaseStock" aria-controls="purchaseStock" role="tab" data-bs-toggle="tab">Purchase stock</a></li>
             </ul>
         </div>
