@@ -5,14 +5,14 @@
     <!-- Global site tag (gtag.js) - Google Analytics-->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="keywords" content="">
-    <meta name="author" content="Aurora Digital (Pty) Ltd.">
+    <meta name="description" content="Formed in 2006, we are a close-knit 1%er motorcycle club roaming throughout South Africa and beyond.">
+    <meta name="keywords" content="Crusaders MC, Crusaders, Motorcycle Club, 1%er, Bike club, South African Bike Club">
+    <meta name="author" content="Crusaders Elysium">
 
     <!-- Standard Favicon -->
-    <link rel="icon" type="assets/image/x-icon" href="assets/images/favicon.png" />
+    <link rel="icon" type="assets/image/x-icon" href="assets/images/favicon/favicon.png" />
 
-    <title>Ink and Iron</title>
+    <title>Crusaders MC</title>
 
     <link rel="stylesheet" type="text/css" href="assets/bootstrap/css/bootstrap-v5.1.3.min.css" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="assets/css/ez-space.css">
