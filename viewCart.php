@@ -60,7 +60,7 @@ include 'includes/header.php'
                             </div>
                             <div class="col-md-6 col-xl-1 xs-pt-20 text-md-end text-xl-start my-auto">
                                 <button class="thumb-grow-small d-none d-md-inline-block xs-mt-25 xl-mt-0"><img src="assets/images/icons/ico-remove.png" alt="Red and White Exit Icon"></button>
-                                <a class="btn btn-primary d-md-none" href="#">Place order</a>
+                                <a class="btn btn-primary d-md-none" href="#">Remove from cart</a>
                             </div>
                         </div>
                     </div>
@@ -103,7 +103,7 @@ include 'includes/header.php'
                             </div>
                             <div class="col-md-6 col-xl-1 xs-pt-20 text-md-end text-xl-start my-auto">
                                 <button class="thumb-grow-small d-none d-md-inline-block xs-mt-25 xl-mt-0"><img src="assets/images/icons/ico-remove.png" alt="Red and White Exit Icon"></button>
-                                <a class="btn btn-primary d-md-none" href="#">Place order</a>
+                                <a class="btn btn-primary d-md-none" href="#">Remove from cart</a>
                             </div>
                         </div>
                     </div>
