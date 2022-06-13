@@ -288,6 +288,22 @@ Main Navigation
     width: 14rem;
 }
 
+.main-navigation .navbar .navbar-toggler {
+    margin-left: auto;
+    color: rgba(255, 255, 255, 0);
+    border-color: rgba(255, 255, 255, 0);
+}
+
+.navbar-toggler:focus {
+    box-shadow: 0 0 0 0;
+}
+
+.main-navigation .navbar .navbar-toggler-icon {
+    background-image: url('../images/icons/ico-toggle.svg');
+    width: 2.5rem;
+    height: 2.5rem;
+}
+
 .main-navigation .navbar ul li a {
     font-size: 1.6rem;
     font-weight: 500;
@@ -298,6 +314,21 @@ Main Navigation
 
 .main-navigation .navbar .btn {
     padding: 14px 19px 16px 21px;
+}
+
+@media only screen and (max-width: 991px) {
+    .main-navigation .navbar ul li a {
+        margin-top: 15px;
+    }
+}
+
+@media only screen and (max-width: 575px) {
+    .main-navigation .navbar {
+        padding-left: 1.9rem;
+    }
+    .main-navigation .navbar .navbar-brand {
+        width: 9rem;
+    }
 }
 
 
@@ -315,6 +346,18 @@ Home Page
 .hero-banner img {
     margin-top: 25px;
     margin-bottom: 25px;
+}
+
+@media only screen and (max-width: 991px) {
+    .hero-banner {
+        margin-top: 8.5rem;
+    }
+}
+
+@media only screen and (max-width: 575px) {
+    .hero-banner {
+        margin-top: 6.5rem;
+    }
 }
 
 
@@ -340,7 +383,7 @@ Home Page
     font-weight: 500;
     color: #000;
     align-items: flex-start;
-    padding: 1rem 0
+    padding: 1rem 5rem 1rem 0;
 }
 
 .accordion-button:not(.collapsed) {
@@ -389,12 +432,18 @@ Home Page
 }
 
 .products-accordion .accordion .accordion-item .accordion-collapse .accordion-body {
-    padding: 5.8rem 0 11.4rem 0;
+    padding: 5.8rem 0 9.4rem 0;
     margin-bottom: 6rem;
 }
 
 .products-accordion .accordion .accordion-item .accordion-collapse .accordion-body .row:not(:last-child) {
-    margin-bottom: 8rem;
+    margin-bottom: 5rem;
+}
+
+@media only screen and (max-width: 575px) {
+    .products-accordion .accordion .accordion-item .accordion-button {
+        font-size: 2.4rem;
+    }
 }
 
 
@@ -423,6 +472,10 @@ Product Styling
 
 .card.product-card .card-content p {
     margin: 15px 0;
+}
+
+.card.product-card .card-content h3 {
+    color: #f92323;
 }
 
 .card.product-card .btn {
@@ -651,8 +704,10 @@ footer hr:not([size]) {
     background-color: #d1d1d1;
 }
 
-footer img {
-    width: 445px;
+@media only screen and (min-width: 1200px) {
+    footer img {
+        max-width: 445px !important;
+    }
 }
 
 footer h5 {
@@ -666,7 +721,20 @@ footer a {
     font-style: normal;
     line-height: normal;
     letter-spacing: normal;
-    text-align: left;
     color: #000;
     text-decoration: none;
+}
+
+@media only screen and (max-width: 991px) {
+    footer a {
+        font-size: 2.5rem;
+        font-weight: 500;
+    }
+}
+
+@media only screen and (max-width: 575px) {
+    footer a {
+        font-size: 2rem;
+        font-weight: 500;
+    }
 }
